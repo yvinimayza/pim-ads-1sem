@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "thiago ",
+        "idade": 25,
+        "tempo_estudo": 2.0
+    },
+    {
+        "nome": "Yvini",
+        "idade": 23,
+        "tempo_estudo": 5.0
+    },
+    {
+        "nome": "Jorge",
+        "idade": 20,
+        "tempo_estudo": 2.0
+    }
+]
