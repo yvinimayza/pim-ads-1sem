@@ -1,0 +1,10 @@
+# Dados e Chaves (NÃO ENVIAR PARA REPOSITÓRIO PÚBLICO)
+key.key
+usuarios.json
+# Se você tiver usuarios_protegidos.dat
+usuarios_protegidos.dat
+# E os padrões gerais do Python, como:
+__pycache__/
+*.pyc
+venv/
+.vscode/
